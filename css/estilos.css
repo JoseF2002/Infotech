@@ -1,5 +1,6 @@
 body{
     background-color: blue;
     font-weight: bold;
-    columns: #f00;
+    color: #f00;
+    font-size: 18px;
 }
